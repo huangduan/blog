@@ -10,6 +10,6 @@ class IndexController extends Controller
     //
     public function index()
     {
-        echo  123;die;
+        return view('home/index/index');
     }
 }
