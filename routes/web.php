@@ -16,3 +16,7 @@ Route::get('/', function () {
 });
 //首页路由
 Route::get('home/index/index', 'Home\IndexController@index');
+// 使用路由组
+Route::group(['prefix' => 'home'], function{
+
+})
