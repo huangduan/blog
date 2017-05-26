@@ -10,4 +10,7 @@ abstract class TestCase extends BaseTestCase
     public function index(){
         123;
     }
+    public function add (){
+        
+    }
 }
