@@ -8,12 +8,7 @@ abstract class TestCase extends BaseTestCase
 {
     use CreatesApplication;
     public function index(){
-        123;
+        123456;
     }
-    public function add (){
 
-    }
-    public function 123(){
-        
-    }
 }
