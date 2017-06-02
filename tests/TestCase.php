@@ -13,9 +13,7 @@ abstract class TestCase extends BaseTestCase
     public function test(){
        12456
     }
-    public function del(){
-       12456
-    }
+    
 
 
 }
