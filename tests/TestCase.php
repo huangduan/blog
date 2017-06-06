@@ -11,7 +11,7 @@ abstract class TestCase extends BaseTestCase
         123456test;
     }
     public function test(){
-        
+        123
     }
 
     
