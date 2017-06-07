@@ -13,6 +13,9 @@ abstract class TestCase extends BaseTestCase
     public function test(){
         123
     }
+    public function add(){
+
+    }
 
     
 
